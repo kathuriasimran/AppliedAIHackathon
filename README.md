@@ -482,12 +482,6 @@ review **faster, more traceable, and more actionable**.
 
 ------------------------------------------------------------------------
 
-## 🎬 Demo Flow
-
-Open the live Timeline:
-
-https://appliedaihack.vercel.app/?view=firm&provider=sportscare&tab=timeline
-
 Recommended demo:
 
 1.  Open the case overview.
@@ -515,7 +509,3 @@ Production deployment would require additional security, privacy,
 access-control, reliability, and compliance hardening.
 
 ------------------------------------------------------------------------
-
-## 📄 License
-
-No license has currently been specified for this repository.
