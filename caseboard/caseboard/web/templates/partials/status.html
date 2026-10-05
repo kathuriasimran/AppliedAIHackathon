@@ -1,0 +1,2 @@
+<span class="text-sm text-muted-foreground {% if job.running %}running{% endif %} {% if job.error %}text-destructive{% endif %}" {% if refresh %}data-refresh="1"{% endif %}>{{ job.message }}</span>
+{% if job.error %}<span class="text-sm text-destructive">{{ job.error }}</span>{% endif %}

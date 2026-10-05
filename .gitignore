@@ -1,0 +1,7 @@
+node_modules/
+Sapini documents/
+__pycache__/
+*.pyc
+.vercel/
+.vercel
+.env*
